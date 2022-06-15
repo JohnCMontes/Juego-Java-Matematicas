@@ -1,0 +1,2 @@
+# Juego-Java-Matematicas
+Esta es una aplicación Java en la que el usuario responde tantas preguntas de matemáticas como pueda en un minuto (las preguntas son suma, resta, multiplicación y división). Las preguntas tienen un ajuste fácil para la primera parte del juego, medio para la siguiente parte y difícil para terminarlo. El juego almacena puntajes altos que se reinician con cada cierre del juego.
